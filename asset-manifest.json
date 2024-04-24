@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Proyecto_Cinco-REACT-/static/js/main.55cb1572.js",
+    "static/media/simpsonsIntro.mp3": "/Proyecto_Cinco-REACT-/static/media/simpsonsIntro.4da225c4b221e30e440c.mp3",
+    "static/media/fondo.jpg": "/Proyecto_Cinco-REACT-/static/media/fondo.a94ba9fbb3daa2478f5d.jpg",
+    "static/media/fondo2.jpg": "/Proyecto_Cinco-REACT-/static/media/fondo2.c701374dbe89230528f0.jpg",
+    "static/media/SimpsonsLogo.png": "/Proyecto_Cinco-REACT-/static/media/SimpsonsLogo.ea78a3c12ad1a2ee7a47.png",
+    "static/media/SimpsonFont.otf": "/Proyecto_Cinco-REACT-/static/media/SimpsonFont.f186689dc82e32fb3352.otf",
+    "static/media/homeroGif.gif": "/Proyecto_Cinco-REACT-/static/media/homeroGif.37091497eea213111e05.gif",
+    "static/media/welcome.png": "/Proyecto_Cinco-REACT-/static/media/welcome.1e3e0a1604ce3c47daa5.png",
+    "static/media/IG.png": "/Proyecto_Cinco-REACT-/static/media/IG.8567ac66de04b219c5d6.png",
+    "static/media/logoLZ.png": "/Proyecto_Cinco-REACT-/static/media/logoLZ.322d28d1e35ba4173204.png",
+    "static/media/TW.png": "/Proyecto_Cinco-REACT-/static/media/TW.4b830520233c960c5d7d.png",
+    "static/media/FB.png": "/Proyecto_Cinco-REACT-/static/media/FB.c0d967713161e0faa310.png",
+    "static/media/Lexpin_Logo_color.png": "/Proyecto_Cinco-REACT-/static/media/Lexpin_Logo_color.ea5b30baef493f051746.png",
+    "index.html": "/Proyecto_Cinco-REACT-/index.html",
+    "main.55cb1572.js.map": "/Proyecto_Cinco-REACT-/static/js/main.55cb1572.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.55cb1572.js"
+  ]
+}
